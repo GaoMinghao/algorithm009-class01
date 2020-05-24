@@ -49,5 +49,6 @@ week1 作业目录：
  + 语言角度没有什么好说的，两个栈没有想到，同时第二个辅助栈我是觉得只有当第一个栈中push进去的值使最小值发生变化时才要push进最新的最小值，这样会导致pop出去时需要进行判断
  
  <h4>以下两个问题需要用Java实现</h4>
+ 
  + 用 add first 或 add last 这套新的 API 改写 Deque 的代码
  + 分析 Queue 和 Priority Queue 的源码
